@@ -4,7 +4,7 @@
   # `Welcome to Interc3pt's GitHub Organization!`
 </div>
 
-This repository holds the **organization-level defaults** for [Interc3pt](https://github.com/interc3pt).
+This repository holds the **organization-level defaults** for [Interc3pt](https://github.com/interc3pt-group).
 Files here apply across every public repository in the organization unless a repo
 provides its own version.
 
@@ -12,7 +12,7 @@ provides its own version.
 
 | Path | Purpose |
 | --- | --- |
-| [`profile/README.md`](profile/README.md) | Public organization profile shown on [github.com/interc3pt](https://github.com/interc3pt) |
+| [`profile/README.md`](profile/README.md) | Public organization profile shown on [github.com/interc3pt-group](https://github.com/interc3pt-group) |
 | [`.github/CODE_OF_CONDUCT.md`](.github/CODE_OF_CONDUCT.md) | Default Code of Conduct |
 | [`.github/CONTRIBUTING.md`](.github/CONTRIBUTING.md) | Default contribution guidelines |
 | [`.github/CODEOWNERS`](.github/CODEOWNERS) | Default code owners |
