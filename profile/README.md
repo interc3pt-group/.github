@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/interc3pt/.github/main/banner-interc3pt.png" alt="Interc3pt" width="100%" />
+<img src="https://raw.githubusercontent.com/interc3pt-group/.github/main/banner.png" alt="Interc3pt" width="100%" />
 
 # Interc3pt
 

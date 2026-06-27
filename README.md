@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/interc3pt/.github/main/logo.png" alt="Interc3pt" width="120" />
+  <img src="https://raw.githubusercontent.com/interc3pt-group/.github/refs/heads/main/logo.png" alt="Interc3pt" width="120" />
 
-  # `.github`
+  # `Welcome to Interc3pt's GitHub Organization!`
 </div>
 
 This repository holds the **organization-level defaults** for [Interc3pt](https://github.com/interc3pt).
