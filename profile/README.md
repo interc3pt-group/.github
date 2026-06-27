@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/interc3pt-group/.github/main/banner.png" alt="Interc3pt" width="100%" />
+<img src="https://raw.githubusercontent.com/interc3pt-group/.github/refs/heads/main/logo.png" alt="Interc3pt" width="120" />
 
 # Interc3pt
 
@@ -35,6 +35,8 @@ ning vabastavad meeskonnad keskenduma sellele, mis tegelikult loeb.
 - ⚡ **Kiire juurutus** — töötavad lahendused, mitte lõputud proovikontseptsioonid.
 - 🔒 **Usaldusväärsus** — turvalisus ja andmekaitse on sisse projekteeritud.
 - 🇪🇪 **Eestis ehitatud** — kohalik partner, kes mõistab teie ärikeskkonda.
+
+<img src="https://raw.githubusercontent.com/interc3pt-group/.github/main/banner.png" alt="Interc3pt" width="100%" />
 
 ## Võta ühendust
 
